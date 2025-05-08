@@ -42,3 +42,13 @@ class LinkedList
             return;
 
         }
+
+        Node *previous = START;
+        Node *current = START;
+
+
+       
+
+    }
+
+};
