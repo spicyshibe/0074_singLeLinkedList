@@ -69,5 +69,7 @@ class LinkedList
         return (START == NULL);
     }
 
+    bool Search(int nim, Node **previous, Node **current)
+ 
 
 };
