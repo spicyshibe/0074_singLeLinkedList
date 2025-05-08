@@ -12,17 +12,15 @@ class Node
 
 class LinkedList
 {
-    node *START;
+    Node *START;
 
     public:
-    LinkedList();
+    LinkedList()
     {
         START = NULL;
     }
 
     void addNode()
-    {
-        
-    }
+    
 
-}
+};
